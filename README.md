@@ -3,6 +3,15 @@
 Magento 2 One Step Checkout Release Notes is a git repository that update all Mageplaza One Step Checkout Patch, Release notes. To upgrade Mageplaza One Step Checkout, you can download *-patch.sh file and apply to your store instantly without issue.
 Explore [Mageplaza One Step Checkout here](https://www.mageplaza.com/magento-2-one-step-checkout-extension/)
 
+## Purpose 
+
+We've uploaded releases, changelog and file changes, it is easy to follow and update One Step Checkout.
+
+## Report an issue
+
+If you got an issue, please report [the issue here](https://www.mageplaza.com/contact.html).
+Do NOT create an issue on this repo, we are not monitoring this Issues box.
+
 ## v2.5.0
 Released on  2018-06-13
 Release notes: 
